@@ -5,9 +5,9 @@ I'm David, currently a lead gameplay programmer at Cloud Imperium Games where I 
 # Personal Projects
 
 - **Polybox** A PS1 era inspired fantasy console
-- **Athena** A small, highly focused game engine being used to make a flight combat game at the moment
 - **UnrealInk** A library that allows the use of Ink, a C# dynamic narrative scripting language, to be used in Unreal. Uses mono and other tricks to make it work
 - **RustyRaytracer** A raytracer I've not worked on in a while but intend to get back to. A chance to learn about raytracing and Rust.
+- **FlightGame** A semi sim arcade flying game I'm working on, it's repo is private at the moment though
 
 I have a bunch of other dormant and abandoned side projects too lying around this account.
 
