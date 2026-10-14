@@ -1,6 +1,6 @@
 # Hello!
 
-I'm David, currently a lead gameplay programmer at Climax Studios where I work on a variety of games and game engines. Previously I worked at Star Citizen where I worked heavily on the spaceship movement systems in Star Citizen. I got to work on this sort of stuff because of a background in physics and maths. A lot of the work I do is with that in mind. I have a [personal website here](https://david-colson.com), where I try and share what I've been learning and working on.
+I'm David, currently a lead gameplay programmer at Climax Studios where I work on a variety of games and game engines. Previously I worked at Cloud Imperium Games where I worked heavily on the spaceship movement systems in Star Citizen. I got to work on this sort of stuff because of a background in physics and maths. A lot of the work I do is with that in mind. I have a [personal website here](https://david-colson.com), where I try and share what I've been learning and working on.
 
 # Personal Projects
 
